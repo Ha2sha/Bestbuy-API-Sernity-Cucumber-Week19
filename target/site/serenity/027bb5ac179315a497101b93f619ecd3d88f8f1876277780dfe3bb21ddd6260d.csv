@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Testing the Stores features on the best buy application","Verify if best buy application stores can be accessed by users","SUCCESS","2022-06-20T20:50:42.943+01:00[Europe/London]","0.0","4.33"
+"Testing the Stores features on the best buy application","Create a new store & verify if the store is added","SUCCESS","2022-06-20T20:50:48.820+01:00[Europe/London]","0.0","1.14"
+"Testing the Stores features on the best buy application","Updating the store created and verify it is updated with status 200","SUCCESS","2022-06-20T20:50:50.062+01:00[Europe/London]","0.0","0.23"
+"Testing the Stores features on the best buy application","Deleting the store created and verify it is deleted","SUCCESS","2022-06-20T20:50:50.403+01:00[Europe/London]","0.0","0.11"
